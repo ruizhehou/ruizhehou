@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on distributed systems and backend engineering
 - 🌱 I'm exploring large-scale data processing and ML infrastructure
-- 💬 Ask me about Java, distributed systems, or anything engineering
+- 💬 Always happy to chat about distributed systems, system design, or engineering in general
 - 📫 How to reach me: through GitHub issues or discussions
 
 ---
