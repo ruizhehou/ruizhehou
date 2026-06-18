@@ -1,4 +1,4 @@
-# Hi there, I'm Ruizhe Hou 👋
+# Hi there, I'm Ruizhe(Richard) Hou 👋
 
 <!--
 **ruizhehou/ruizhehou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
